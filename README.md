@@ -1,1 +1,1 @@
-# UpennFintechProj1
+# PennGroupProject1
